@@ -18,9 +18,8 @@ Inserisci l'eta' della 4a persona: 50
 Inserisci l'eta' della 5a persona: 9
 Inserisci l'eta' della 6a persona: 63
 
-Eta' media: 27.50000
+Eta' media: 27.500000
 Eta' massima: 63
 Eta' minima: 7
 Numero di potenziali Presidenti della Reppubblica: 2
-I maggiorenni sono: 2
 ```
